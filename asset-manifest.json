@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/personalpage/static/css/main.61bc7eff.css",
+    "main.js": "/personalpage/static/js/main.db71c6d4.js",
+    "static/js/787.c59b0745.chunk.js": "/personalpage/static/js/787.c59b0745.chunk.js",
+    "static/media/avatar_hd_small.png": "/personalpage/static/media/avatar_hd_small.b1f8f1de2a60d342cb82.png",
+    "static/media/transparent-trophy-13.png": "/personalpage/static/media/transparent-trophy-13.f2b136236d1692575203.png",
+    "index.html": "/personalpage/index.html",
+    "main.61bc7eff.css.map": "/personalpage/static/css/main.61bc7eff.css.map",
+    "main.db71c6d4.js.map": "/personalpage/static/js/main.db71c6d4.js.map",
+    "787.c59b0745.chunk.js.map": "/personalpage/static/js/787.c59b0745.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.61bc7eff.css",
+    "static/js/main.db71c6d4.js"
+  ]
+}
